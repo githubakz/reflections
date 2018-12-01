@@ -1,3 +1,6 @@
 Learning git init command
 
 HEllo editing to check git diff between workign directory and staging area
+
+forgot the last time.. 
+lets check it out now`
